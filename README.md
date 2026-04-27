@@ -33,20 +33,20 @@ The dataset contains the following features:
 
 ---
 
+## 🚀 How to Use
+
+1. Download the `.pbix` file and the date file from the repository
+2. Open in Power BI Desktop and Import the data file
+3. Interact with filters and visuals to explore insights
+
+---
+
 ## 🔍 Key Insights
 
 * Higher **screen time correlates with increased stress levels**
 * Increased **Instagram reel watch time impacts attention span negatively**
 * Attention span is **Improving with age**
 * Platform usage influences **behavioral patterns differently**
-
----
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file from the repository
-2. Open in Power BI Desktop
-3. Interact with filters and visuals to explore insights
 
 ---
 
